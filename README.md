@@ -90,9 +90,6 @@ The contracts emit the following events:
 - Integrate with an off-chain system to automatically track and add game coins based on user activity.
 - Implement a frontend interface for easier interaction with the contracts.
 
-## License
-This project is licensed under the MIT License.
-
 ---
 
 ### Disclaimer
